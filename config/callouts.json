@@ -1,0 +1,7 @@
+{
+    "minCallTimeout": 10,
+    "maxCallTimeout": 80,
+    "expirationTime": 60,
+    "probability": 65,
+    "enableAmbientEvents":false
+}
